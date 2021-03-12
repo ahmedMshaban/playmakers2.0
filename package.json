@@ -1,0 +1,20 @@
+{
+    "name": "Playmakers",
+    "version": "2.0.0",
+    "description": "Shopify template for my Playmakers by Superwebpros",
+    "main": "index.js",
+    "scripts": {
+      "watch": "theme watch",
+      "deploy": "theme deploy"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ahmedMshaban/Playmakers2.0.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/ahmedMshaban/Playmakers2.0.git/issues"
+    },
+    "homepage": "https://github.com/ahmedMshaban/Playmakers2.0.git#readme"
+  }

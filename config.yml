@@ -1,0 +1,6 @@
+development:
+  password: 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
+  theme_id: "120545312975"
+  store: playmakersv2-0.myshopify.com
+  ignore_files: 
+    - config/settings_data.json
